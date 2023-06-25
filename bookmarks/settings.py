@@ -113,3 +113,7 @@ with open("./.email_pass") as f:
 
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
+
+
+MEDIA_URL = 'media/'
+MEDIA_DIR = BASE_DIR / 'media'

@@ -88,3 +88,9 @@ local_settings.py
 .env
 .secret_key
 .email_pass
+
+*/migrations/
+
+users/
+
+db.sqlite3
